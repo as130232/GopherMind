@@ -8,7 +8,7 @@ GopherMind 是一個基於 Go 語言開發的智慧型 AI Agent。它旨在將�
 
 ## 🛠 關鍵技術
 - **Language:** Go (Golang)
-- **AI Engine:** OpenAI / Anthropic / Ollama (Function Calling)
+- **AI Engine:** Gemini/ OpenAI / Anthropic / Ollama (Function Calling)
 - **Vector DB:** Qdrant (用於語意路由與長期記憶)
 - **Messaging:** LineBot SDK
 - **Data:** Redis, PostgreSQL, Kafka/RabbitMQ

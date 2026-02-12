@@ -27,4 +27,4 @@ GopherMind 整合了多樣化的生活與開發工具：
 ## ⚙️ 快速開始
 1. **複製專案**
    ```bash
-   git clone [https://github.com/你的帳號/GopherMind.git](https://github.com/你的帳號/GopherMind.git)
+   git clone [https://github.com/as130232/GopherMind.git](https://github.com/as130232/GopherMind.git)
